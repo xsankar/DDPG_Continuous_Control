@@ -34,7 +34,7 @@ The task is episodic, and in order to solve the environment,  the agent must get
 
 ### Instructions
 
-Follow the instructions in `Proj2_v1.ipynb` to get started. 
+Follow the instructions in `DDPG_CC.ipynb` to get started. 
 
 * One can run the iPython notebook & train the agent (slow) or 
 * use the iPython notebook to run a saved model (fast) or 
