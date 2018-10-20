@@ -42,4 +42,4 @@ Follow the instructions in `Proj2_v1.ipynb` to get started.
 
 ### Report
 
-The `Report.pdf` has a summary of the algorithm, the implementation and the experimentation (network architecture, hyp=erparameter search et al)
+The `Report.pdf` has a summary of the algorithm, the implementation and the experimentation (network architecture, hyperparameter search et al)
