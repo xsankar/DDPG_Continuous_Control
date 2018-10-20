@@ -38,7 +38,7 @@ Follow the instructions in `Proj2_v1.ipynb` to get started.
 
 * One can run the iPython notebook & train the agent (slow) or 
 * use the iPython notebook to run a saved model (fast) or 
-* watch the two videos viz. `p2_cc_no_learning_02.m4v` and 'p2_cc_after_learning_02.m4v` (fastest)
+* watch the two videos viz. `p2_cc_no_learning_02.m4v` and `p2_cc_after_learning_02.m4v` (fastest)
 
 ### Report
 
