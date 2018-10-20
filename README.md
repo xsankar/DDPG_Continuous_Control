@@ -38,8 +38,8 @@ Follow the instructions in `Continuous_Control.ipynb` to get started.
 
 * One can run the iPython notebook & train the agent (slow) or 
 * use the iPython notebook to run a saved model (fast) or 
-* watch the two videos viz. p2_cc_no_learning_02.mov and p2_cc_after_learning_02.mov (fastest)
+* watch the two videos viz. `p2_cc_no_learning_02.m4v` and 'p2_cc_after_learning_02.m4v` (fastest)
 
 ### Report
 
-The report.pdf has a summary of the algorithm, the implementation and the experimentation (network architecture, hyp=erparameter search et al)
+The `Report.pdf` has a summary of the algorithm, the implementation and the experimentation (network architecture, hyp=erparameter search et al)
