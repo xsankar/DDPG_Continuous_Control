@@ -30,7 +30,7 @@ The task is episodic, and in order to solve the environment,  the agent must get
         - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86.zip)
         - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86_64.zip)
 
-2. Place the file in the `DDPG_Continuous-Control/` folder, and unzip (or decompress) the file. 
+2. Place the file in the `DDPG_Continuous_Control/` folder, and unzip (or decompress) the file. 
 
 ### Instructions
 
